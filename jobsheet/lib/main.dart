@@ -81,6 +81,7 @@ class HomeScreen extends StatelessWidget {
                     'Sugar with 5000',
                   ),
                 );
+                MainAxisAlignment.spaceAround;
               },
               child: const Text('Sugar'),
             ),
